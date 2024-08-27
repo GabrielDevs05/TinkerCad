@@ -9,12 +9,34 @@ nav{
 }
 
 nav a{
-    font-size: 25px;
+    font-size: 20px;
     text-decoration: none;
     color: black;
     font-weight: bold;
 }
 
 a:hover{
-    background-color: rgb(233, 228, 227);
+    background-color: rgb(231, 221, 219);
 }
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 20px;
+}
+
+div img{
+    border: solid rgb(66, 97, 97) 4px;
+    border-radius: 12px;
+}
+
+div a{
+    color: black;
+}
+
